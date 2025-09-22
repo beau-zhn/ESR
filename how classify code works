@@ -1,0 +1,55 @@
+## 1. What is a PDB file?
+
+* A **PDB file** is just a text file describing a 3D model of a protein (or other molecule).
+---
+
+## 2. Two main questions the code asks
+
+The script is essentially asking:
+
+1. **Does this protein have any “extra molecules” attached?**
+unliganded = APO
+liganded = HOLO
+
+   * If yes → mark it as **HOLO** (holo = with ligand).
+   * If no → mark it as **APO** (apo = just the plain protein).
+     (In biology, ligands could be drugs, metals, hormones — basically things the protein binds to.)
+
+2. **What shape is the protein mostly made of?**
+
+   * Proteins can fold into simple repeating shapes. The two most common are:
+
+     * **Helices (spirals, like springs)**
+     * **Sheets (flat, pleated structures, like folded paper)**
+   * The code counts how many amino acids are in helices vs in sheets.
+   * Then it says:
+     * Mostly helices → “alpha”
+     * Mostly sheets → “beta”
+     * A mix → “alpha\_beta”
+---
+## 3. How the code figures it out
+
+* **For ligands (extra molecules):**
+  The file has lines describing everything.
+  * Atoms that belong to the main protein are marked as `ATOM`.
+  * Atoms belonging to “other stuff” are marked as `HETATM`.
+  * The script ignores things like water or salts (because they’re not meaningful ligands).
+  * If any “real” extras are found, it calls the protein **HOLO**.
+
+* **For structure type (shape):**
+  The file also has lines that describe secondary structures:
+  * `HELIX` = a spiral region
+  * `SHEET` = a sheet region
+  * The script counts how many amino acids fall into each category.
+  * Then it calculates percentages and compares them with thresholds (≥40% means “mostly”).
+---
+
+## 4. Example with  file (1A52)
+When I ran it on your `1a52.pdb`, the script said:
+* **HOLO**, because it found attached molecules “AU” and “EST” that are not just water/salt.
+* **Alpha**, because \~67% of the protein is helical, while only \~4% is sheet.
+
+So the classification is:
+“This protein is **HOLO** (has ligands) and is an **alpha** protein (mostly helices).”
+
+
