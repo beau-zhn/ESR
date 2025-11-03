@@ -1,0 +1,1 @@
+CHEMBL489: total_rows=1000, kept_after_name_filter=21; nonempty_types=['KI', 'RBA', 'IC50', 'EC50']

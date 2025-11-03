@@ -1,0 +1,996 @@
+{
+  "CHEMBL4297438": [],
+  "CHEMBL1201497": [
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 550,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Insulin receptor agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=b861fdd9-e134-436e-8c0c-a60dd0006dd3",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=b861fdd9-e134-436e-8c0c-a60dd0006dd3"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1201497",
+      "parent_molecule_chembl_id": "CHEMBL1201497",
+      "record_id": 1696744,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1981",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL13254": [],
+  "CHEMBL263441": [],
+  "CHEMBL3137315": [],
+  "CHEMBL2108623": [],
+  "CHEMBL8690": [],
+  "CHEMBL267014": [],
+  "CHEMBL269705": [],
+  "CHEMBL368464": [],
+  "CHEMBL2108767": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 5182,
+      "mechanism_comment": "Discontinued early due to thromboses in some recipients.",
+      "mechanism_of_action": "CD40 ligand inhibitor",
+      "mechanism_refs": [],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108767",
+      "parent_molecule_chembl_id": "CHEMBL2108767",
+      "record_id": 1696542,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3580491",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL3137328": [],
+  "CHEMBL2108666": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6364,
+      "mechanism_comment": null,
+      "mechanism_of_action": "CD22 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "25150258",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25150258"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2108666",
+      "parent_molecule_chembl_id": "CHEMBL2108666",
+      "record_id": 1697531,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3218",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL5314995": [],
+  "CHEMBL22317": [],
+  "CHEMBL1660": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Beta subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 1388,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Bacterial DNA-directed RNA polymerase inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "20185278",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/20185278"
+        },
+        {
+          "ref_id": "9661035",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/9661035"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1660",
+      "parent_molecule_chembl_id": "CHEMBL1660",
+      "record_id": 1344983,
+      "selectivity_comment": null,
+      "site_id": 2638,
+      "target_chembl_id": "CHEMBL2364672",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL208437": [],
+  "CHEMBL1201584": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Beta subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 1077,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Integrin alpha-IIb/beta-3 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=033d4c3b-4630-4256-b8f7-9ed5f15de9a3",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=033d4c3b-4630-4256-b8f7-9ed5f15de9a3"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1201584",
+      "parent_molecule_chembl_id": "CHEMBL1201584",
+      "record_id": 1343491,
+      "selectivity_comment": null,
+      "site_id": 2643,
+      "target_chembl_id": "CHEMBL2093869",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Beta subunit is binding site",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 1294,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Integrin alpha-V/beta-3 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=033d4c3b-4630-4256-b8f7-9ed5f15de9a3",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=033d4c3b-4630-4256-b8f7-9ed5f15de9a3"
+        },
+        {
+          "ref_id": "10708709",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/10708709"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1201584",
+      "parent_molecule_chembl_id": "CHEMBL1201584",
+      "record_id": 1343491,
+      "selectivity_comment": null,
+      "site_id": 2645,
+      "target_chembl_id": "CHEMBL1907598",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL2368924": [
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 373,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Serotonin 3a (5-HT3a) receptor antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=6600dfea-fcf2-4f89-ab45-66282dee969f#nlm34090-1",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6600dfea-fcf2-4f89-ab45-66282dee969f#nlm34090-1"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2368924",
+      "parent_molecule_chembl_id": "CHEMBL2368925",
+      "record_id": 1344934,
+      "selectivity_comment": "Selective",
+      "site_id": null,
+      "target_chembl_id": "CHEMBL1899",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL3301578": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6398,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Hepatocyte growth factor receptor inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "27803065",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/27803065"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL3301578",
+      "parent_molecule_chembl_id": "CHEMBL3301578",
+      "record_id": 1707033,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3717",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL467196": [],
+  "CHEMBL508897": [],
+  "CHEMBL5314397": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 5112,
+      "mechanism_comment": null,
+      "mechanism_of_action": "MAP kinase p38 alpha inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "25599809",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25599809"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL5314397",
+      "parent_molecule_chembl_id": "CHEMBL5314397",
+      "record_id": 2473311,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL260",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL2251848": [],
+  "CHEMBL2109481": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 6121,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Intercellular adhesion molecule 3 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "10.1016/S0301-472X(00)00274-5",
+          "ref_type": "DOI",
+          "ref_url": "http://www.sciencedirect.com/science/article/pii/S0301472X00002745?via%3Dihub"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL2109481",
+      "parent_molecule_chembl_id": "CHEMBL2109481",
+      "record_id": 1706991,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3712862",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL4753998": [],
+  "CHEMBL2106658": [],
+  "CHEMBL2262845": [],
+  "CHEMBL1201625": [
+    {
+      "action_type": "SEQUESTERING AGENT",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 2075,
+      "mechanism_comment": "Removes bile acids from the enterohepatic circulation by adsorbing and combing with the bile acids in the intestine and forming an insoluble complex which is extrected in the feces",
+      "mechanism_of_action": "Bile acids sequestering agent",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=a7dd335a-6413-446e-8098-d4f97e935986#nlm34090-1",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=a7dd335a-6413-446e-8098-d4f97e935986#nlm34090-1"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1201625",
+      "parent_molecule_chembl_id": "CHEMBL1201625",
+      "record_id": 1344878,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2364175",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL88153": [],
+  "CHEMBL475": [],
+  "CHEMBL504": [
+    {
+      "action_type": null,
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 2170,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Unknown",
+      "mechanism_refs": [
+        {
+          "ref_id": "17661513",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/17661513"
+        },
+        {
+          "ref_id": "3510103",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/3510103"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL504",
+      "parent_molecule_chembl_id": "CHEMBL504",
+      "record_id": 1343741,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": null,
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL2108130": [],
+  "CHEMBL10017": [],
+  "CHEMBL5882296": [],
+  "CHEMBL388565": [],
+  "CHEMBL315985": [
+    {
+      "action_type": "BLOCKER",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 5647,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Sodium channel alpha subunit blocker",
+      "mechanism_refs": [
+        {
+          "ref_id": "12952496",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/12952496"
+        },
+        {
+          "ref_id": "24225327",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/24225327"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL315985",
+      "parent_molecule_chembl_id": "CHEMBL315985",
+      "record_id": 1702491,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2331043",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL135": [
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 858,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Estrogen receptor alpha agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=0f943869-41a2-4f7e-943d-dd8c17996dd8#nlm34090-1",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0f943869-41a2-4f7e-943d-dd8c17996dd8#nlm34090-1"
+        },
+        {
+          "ref_id": "Estrogen_receptor",
+          "ref_type": "Wikipedia",
+          "ref_url": "http://en.wikipedia.org/wiki/Estrogen_receptor"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL135",
+      "parent_molecule_chembl_id": "CHEMBL135",
+      "record_id": 1344327,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL206",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL1883512": [],
+  "CHEMBL267179": [],
+  "CHEMBL1370": [
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 812,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Glucocorticoid receptor agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "D00246",
+          "ref_type": "KEGG",
+          "ref_url": "http://www.kegg.jp/dbget-bin/www_bget?dr:D00246"
+        },
+        {
+          "ref_id": "11730731",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/11730731"
+        },
+        {
+          "ref_id": "12601049",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/12601049"
+        },
+        {
+          "ref_id": "12920235",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/12920235"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1370",
+      "parent_molecule_chembl_id": "CHEMBL1370",
+      "record_id": 1343876,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2034",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL1129": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 1930,
+      "mechanism_comment": "Virustatic antimetabolites; recent studies indicate its role as an anti-cancer (pmid: 6436227, 18600528)",
+      "mechanism_of_action": "DNA inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "0-86577-843-4 PP. 284",
+          "ref_type": "ISBN",
+          "ref_url": "http://www.isbnsearch.org/isbn/0865778434"
+        },
+        {
+          "ref_id": "1377898",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/1377898"
+        },
+        {
+          "ref_id": "18600528",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/18600528"
+        },
+        {
+          "ref_id": "6436227",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/6436227"
+        },
+        {
+          "ref_id": "8032338",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/8032338"
+        },
+        {
+          "ref_id": "Trifluridine",
+          "ref_type": "Wikipedia",
+          "ref_url": "http://en.wikipedia.org/wiki/Trifluridine"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1129",
+      "parent_molecule_chembl_id": "CHEMBL1129",
+      "record_id": 1343825,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2366042",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL28": [],
+  "CHEMBL38943": [
+    {
+      "action_type": "AGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 8048,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Peroxisome proliferator-activated receptor delta agonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.sciencedirect.com/topics/neuroscience/gw501516",
+          "ref_type": "Other",
+          "ref_url": "https://www.sciencedirect.com/topics/neuroscience/gw501516"
+        },
+        {
+          "ref_id": "16625823",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/16625823"
+        },
+        {
+          "ref_id": "25943561",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25943561"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL38943",
+      "parent_molecule_chembl_id": "CHEMBL38943",
+      "record_id": 3132170,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL3979",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL4297803": [
+    {
+      "action_type": "HYDROLYTIC ENZYME",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 8668,
+      "mechanism_comment": null,
+      "mechanism_of_action": "L-arginine hydrolytic enzyme",
+      "mechanism_refs": [
+        {
+          "ref_id": "31954097",
+          "ref_type": "PubMed",
+          "ref_url": "https://pubmed.ncbi.nlm.nih.gov/31954097/"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297803",
+      "parent_molecule_chembl_id": "CHEMBL4297803",
+      "record_id": 3133434,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL4651302",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL426392": [],
+  "CHEMBL595": [],
+  "CHEMBL551554": [],
+  "CHEMBL4297562": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7890,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Dickkopf-related protein 1 inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://cancerres.aacrjournals.org/content/78/13_Supplement/1710",
+          "ref_type": "Other",
+          "ref_url": "https://cancerres.aacrjournals.org/content/78/13_Supplement/1710"
+        },
+        {
+          "ref_id": "32408777",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/32408777"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL4297562",
+      "parent_molecule_chembl_id": "CHEMBL4297562",
+      "record_id": 3133143,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL6024",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL197676": [
+    {
+      "action_type": null,
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": -1,
+      "mec_id": 9751,
+      "mechanism_comment": "Approved veterinary",
+      "mechanism_of_action": "External insecticide",
+      "mechanism_refs": [
+        {
+          "ref_id": "https://www.ema.europa.eu/en/documents/product-information/activyl-epar-product-information_en.pdf",
+          "ref_type": "EMA",
+          "ref_url": "https://www.ema.europa.eu/en/documents/product-information/activyl-epar-product-information_en.pdf"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL197676",
+      "parent_molecule_chembl_id": "CHEMBL197676",
+      "record_id": 3955474,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": null,
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL256913": [],
+  "CHEMBL1614877": [],
+  "CHEMBL465561": [],
+  "CHEMBL1683544": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": "Binds to beta tubulin",
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 1104,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Tubulin inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822#nlm34090-1",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=31ce4750-ded5-4a0b-95e9-f229fa6bc822#nlm34090-1"
+        },
+        {
+          "ref_id": "22619477",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/22619477"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1683544",
+      "parent_molecule_chembl_id": "CHEMBL1683590",
+      "record_id": 1343283,
+      "selectivity_comment": null,
+      "site_id": 2627,
+      "target_chembl_id": "CHEMBL2095182",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL480491": [],
+  "CHEMBL3701382": [],
+  "CHEMBL2108758": [],
+  "CHEMBL1807754": [],
+  "CHEMBL449423": [],
+  "CHEMBL485": [],
+  "CHEMBL942": [
+    {
+      "action_type": null,
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 2173,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Unknown",
+      "mechanism_refs": [
+        {
+          "ref_id": "label/2010/021551s013lbl.pdf",
+          "ref_type": "FDA",
+          "ref_url": "http://www.accessdata.fda.gov/drugsatfda_docs/label/2010/021551s013lbl.pdf"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL942",
+      "parent_molecule_chembl_id": "CHEMBL942",
+      "record_id": 1344664,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": null,
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL489": [
+    {
+      "action_type": "MODULATOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 4566,
+      "mechanism_comment": "Active metabolite of tamoxifen",
+      "mechanism_of_action": "Estrogen receptor modulator",
+      "mechanism_refs": [
+        {
+          "ref_id": "D06551",
+          "ref_type": "KEGG",
+          "ref_url": null
+        },
+        {
+          "ref_id": "Afimoxifene",
+          "ref_type": "Wikipedia",
+          "ref_url": "http://en.wikipedia.org/wiki/Afimoxifene"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL489",
+      "parent_molecule_chembl_id": "CHEMBL489",
+      "record_id": 1706432,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL2093866",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 3,
+      "mec_id": 4567,
+      "mechanism_comment": "Active metabolite of tamoxifen",
+      "mechanism_of_action": "Estrogen-related receptor gamma antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "11447273",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/11447273"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL489",
+      "parent_molecule_chembl_id": "CHEMBL489",
+      "record_id": 1706432,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL4245",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL1192678": [],
+  "CHEMBL493": [],
+  "CHEMBL1253443": [],
+  "CHEMBL1651739": [],
+  "CHEMBL81": [
+    {
+      "action_type": "MODULATOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 10131,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Estrogen receptor modulator",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9",
+          "ref_type": "DailyMed",
+          "ref_url": "https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=fcaaa6dc-74e8-4fb8-800c-5574bf0f8de9"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL81",
+      "parent_molecule_chembl_id": "CHEMBL81",
+      "record_id": 2792307,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL206",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL2105377": [],
+  "CHEMBL62": [],
+  "CHEMBL326632": [],
+  "CHEMBL4297913": [],
+  "CHEMBL443876": [],
+  "CHEMBL593187": [],
+  "CHEMBL1451633": [],
+  "CHEMBL6068046": [],
+  "CHEMBL4650444": [],
+  "CHEMBL507823": [],
+  "CHEMBL9967": [
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 2,
+      "mec_id": 7532,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Muscarinic acetylcholine receptor M1 antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "27080256",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/27080256"
+        },
+        {
+          "ref_id": "2904117",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/2904117"
+        },
+        {
+          "ref_id": "3124181",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/3124181"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL9967",
+      "parent_molecule_chembl_id": "CHEMBL9967",
+      "record_id": 2793962,
+      "selectivity_comment": "Reported to be selective for the M1 receptor.",
+      "site_id": null,
+      "target_chembl_id": "CHEMBL216",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL1118": [
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 393,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Serotonin transporter inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=91cf39c9-4d26-480a-a3a3-a3d8d4c4d222#nlm34090-1",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91cf39c9-4d26-480a-a3a3-a3d8d4c4d222#nlm34090-1"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1118",
+      "parent_molecule_chembl_id": "CHEMBL1118",
+      "record_id": 1879208,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL228",
+      "variant_sequence": null
+    },
+    {
+      "action_type": "INHIBITOR",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 876,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Norepinephrine transporter inhibitor",
+      "mechanism_refs": [
+        {
+          "ref_id": "setid=91cf39c9-4d26-480a-a3a3-a3d8d4c4d222#nlm34090-1",
+          "ref_type": "DailyMed",
+          "ref_url": "http://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=91cf39c9-4d26-480a-a3a3-a3d8d4c4d222#nlm34090-1"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1118",
+      "parent_molecule_chembl_id": "CHEMBL1118",
+      "record_id": 1879208,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL222",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL1200638": [
+    {
+      "action_type": "ANTAGONIST",
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 138,
+      "mechanism_comment": null,
+      "mechanism_of_action": "Histamine H1 receptor antagonist",
+      "mechanism_refs": [
+        {
+          "ref_id": "19085565",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/19085565"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL1200638",
+      "parent_molecule_chembl_id": "CHEMBL1201287",
+      "record_id": 1344352,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": "CHEMBL231",
+      "variant_sequence": null
+    }
+  ],
+  "CHEMBL569677": [],
+  "CHEMBL77131": [],
+  "CHEMBL110": [
+    {
+      "action_type": null,
+      "binding_site_comment": null,
+      "direct_interaction": 1,
+      "disease_efficacy": 1,
+      "max_phase": 4,
+      "mec_id": 6473,
+      "mechanism_comment": "Benznidazole inhibits the synthesis of DNA, RNA, and proteins within the T. cruzi parasite. Studies suggest that benznidazole is reduced by a Type I nitroreductase (NTR) enzyme of T. cruzi producing a series of short-lived intermediates that may promote damage to several macromolecules including DNA. In mammalian cells, however, benznidazole is metabolized by reduction of the nitro group to an amino group by a Type II NTR enzyme. The precise mechanism of action is not known.",
+      "mechanism_of_action": "Unknown",
+      "mechanism_refs": [
+        {
+          "ref_id": "label/2017/209570lbl.pdf",
+          "ref_type": "FDA",
+          "ref_url": "https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/209570lbl.pdf"
+        },
+        {
+          "ref_id": "23114763",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/23114763"
+        },
+        {
+          "ref_id": "24462750",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/24462750"
+        },
+        {
+          "ref_id": "24827034",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/24827034"
+        },
+        {
+          "ref_id": "25385100",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25385100"
+        },
+        {
+          "ref_id": "25784402",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/25784402"
+        },
+        {
+          "ref_id": "26076455",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/26076455"
+        },
+        {
+          "ref_id": "26350447",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/26350447"
+        },
+        {
+          "ref_id": "27158908",
+          "ref_type": "PubMed",
+          "ref_url": "http://europepmc.org/abstract/MED/27158908"
+        }
+      ],
+      "molecular_mechanism": 1,
+      "molecule_chembl_id": "CHEMBL110",
+      "parent_molecule_chembl_id": "CHEMBL110",
+      "record_id": 1702937,
+      "selectivity_comment": null,
+      "site_id": null,
+      "target_chembl_id": null,
+      "variant_sequence": null
+    }
+  ]
+}

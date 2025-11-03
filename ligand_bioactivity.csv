@@ -1,0 +1,13 @@
+chembl_id,lig_code,target,target_chembl_id,type,n,median_nM,min_nM,max_nM
+CHEMBL135,EST,ER (name match),,IC50,102,1.85,0.01,46.0
+CHEMBL135,EST,ER (name match),,EC50,64,0.63,0.007,280.0
+CHEMBL135,EST,ER (name match),,RBA,44,100.0,0.0,10000.0
+CHEMBL28,GEN,ER (name match),,IC50,3,1253.0,130.0,14000.0
+CHEMBL28,GEN,ER (name match),,RBA,1,0.1,0.1,0.1
+CHEMBL942,ODY,ER (name match),,AC50,1,8849.9,8849.9,8849.9
+CHEMBL489,OHT,ER (name match),,IC50,17,2.3,0.53,70.0
+CHEMBL489,OHT,ER (name match),,EC50,1,0.0987,0.0987,0.0987
+CHEMBL493,PTI,ER (name match),,AC50,2,8999.95,7000.0,10999.9
+CHEMBL81,RAL,ER (name match),,IC50,66,4.0,0.2,577.0
+CHEMBL81,RAL,ER (name match),,EC50,3,22.0,22.0,260.0
+CHEMBL81,RAL,ER (name match),,RBA,12,0.34,0.03,35.0
