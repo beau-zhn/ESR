@@ -2,7 +2,7 @@ from rdkit import Chem
 import os
 
 
-pdb_dir = "test"
+pdb_dir = "data set/cif to pdb"
 out_sdf = "ligands.sdf"
 
 ligands = []
