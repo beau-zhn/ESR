@@ -4,13 +4,15 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
+from rdkit.Chem.rdFingerprintGenerator import GetMorganGenerator
 
 
 suppl = Chem.SDMolSupplier("ligands.sdf")
 mols = [m for m in suppl if m is not None]
 names = [m.GetProp("_Name") if m.HasProp("_Name") else f"Ligand_{i}" for i,m in enumerate(mols)]
 
-fps = [AllChem.GetMorganFingerprintAsBitVect(m, radius=2, nBits=2048) for m in mols]
+morgan_gen = GetMorganGenerator(radius=2, fpSize=2048)
+fps = [morgan_gen.GetFingerprint(m) for m in mols]
 
 n = len(fps)
 sim = np.zeros((n,n))
