@@ -1,0 +1,38 @@
+=== Ligand Extraction Log ===
+4j24: Extracted 4 ligand(s)
+3omp: Failed to parse PDB
+3omq: Failed to parse PDB
+1x7j: Extracted 2 ligand(s)
+4j26: Extracted 2 ligand(s)
+1l2j: Extracted 2 ligand(s)
+3ols: Extracted 2 ligand(s)
+1x78: Extracted 2 ligand(s)
+2nv7: Extracted 2 ligand(s)
+2yjd: Extracted 2 ligand(s)
+7xwr: Extracted 2 ligand(s)
+7xwq: Extracted 2 ligand(s)
+7xwp: Extracted 2 ligand(s)
+2z4b: Extracted 2 ligand(s)
+2jj3: Extracted 2 ligand(s)
+7xvy: Failed to parse PDB
+7xvz: Extracted 2 ligand(s)
+1yy4: Extracted 2 ligand(s)
+1u9e: Extracted 2 ligand(s)
+2fsz: Extracted 4 ligand(s)
+5toa: Extracted 2 ligand(s)
+1yye: Extracted 2 ligand(s)
+4zi1: Extracted 1 ligand(s)
+1x7b: Extracted 2 ligand(s)
+3omo: Failed to parse PDB
+1nde: Extracted 1 ligand(s)
+2yly: Extracted 2 ligand(s)
+1u3q: Extracted 4 ligand(s)
+1zaf: Failed to parse PDB
+1u3s: Extracted 2 ligand(s)
+1u3r: Extracted 2 ligand(s)
+2qtu: Extracted 2 ligand(s)
+1qkm: Extracted 1 ligand(s)
+1x76: Extracted 2 ligand(s)
+3oll: Extracted 2 ligand(s)
+2i0g: Extracted 2 ligand(s)
+2giu: Extracted 1 ligand(s)
