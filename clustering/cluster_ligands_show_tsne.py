@@ -3,6 +3,7 @@
 # Generates TSNE+KMeans visualizations for ligand clusters (clean legends, no text clutter).
 
 import argparse
+from typing import Optional
 from pathlib import Path
 import numpy as np
 import pandas as pd
@@ -19,7 +20,7 @@ from matplotlib.lines import Line2D
 # ----------------------------------------------------------------------
 DEFAULT_SMILES_CANDIDATES = ["SMILES", "SMILES_NoH", "Canonical_SMILES"]
 
-def load_df_autosmiles(xlsx_path: str, smiles_col: str | None):
+def load_df_autosmiles(xlsx_path: str, smiles_col: Optional[str]):
     """Load Excel and detect SMILES column, auto-repair if file is CSV-inside-Excel."""
     df = pd.read_excel(xlsx_path, sheet_name=0, header=0)
 

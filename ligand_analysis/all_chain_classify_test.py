@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+
+FIRST TRY TO CLASSIFY PDB CHAINS BY SEQRES LENGTH AND LIGANDS 
+
+
 Scan .pdb/.ent files recursively, read SEQRES length per chain,
 collect unique ligands, and annotate:
   - seqres_len < 50          -> "inconsistent structure"
