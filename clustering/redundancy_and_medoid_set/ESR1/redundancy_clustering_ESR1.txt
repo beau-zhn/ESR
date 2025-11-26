@@ -1,0 +1,38 @@
+PS C:\Users\a1611\Desktop\BioInfo\redundancy\ESR1> py redundancy_ESR1.py
+Global mean dRMSD: 0.861 Å
+
+=== Cluster entropy (ESR1) ===
+Cluster counts: {np.int64(1): np.int64(48), np.int64(2): np.int64(97), np.int64(3): np.int64(142), np.int64(4): np.int64(159)}
+Shannon entropy H = 1.881 bits
+Effective number of conformational states ≈ 3.68
+k =   2: coverage_error = 0.318, normalized_diversity = 0.631
+k =   5: coverage_error = 0.311, normalized_diversity = 0.639
+k =  10: coverage_error = 0.304, normalized_diversity = 0.647
+k =  20: coverage_error = 0.295, normalized_diversity = 0.657
+k =  50: coverage_error = 0.000, normalized_diversity = 1.000
+k = 100: coverage_error = 0.000, normalized_diversity = 1.000
+k = 446: coverage_error = 0.000, normalized_diversity = 1.000
+
+Saved redundancy curve → C:\Users\a1611\Desktop\BioInfo\redundancy\ESR1\redundancy_ESR1_curve.csv
+Saved diversity curve plot → C:\Users\a1611\Desktop\BioInfo\redundancy\ESR1\ESR1_diversity_curve.png
+Saved coverage error plot → C:\Users\a1611\Desktop\BioInfo\redundancy\ESR1\ESR1_coverage_error_curve.png
+
+CLUSTER 1: size=48
+  Medoid: 8dui.pdb
+  Backup: 6zoq.pdb
+
+CLUSTER 2: size=97
+  Medoid: 2pog.pdb
+  Backup: 6pfm.pdb
+
+CLUSTER 3: size=142
+  Medoid: 6d0f.pdb
+  Backup: 2iog.pdb
+
+CLUSTER 4: size=159
+  Medoid: 5t92.pdb
+  Backup: 1a52.pdb
+
+Saved medoids → C:\Users\a1611\Desktop\BioInfo\redundancy\ESR1\ESR1_medoids.csv
+
+DONE: ESR1 redundancy, entropy, medoids and plots computed.

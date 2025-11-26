@@ -1,0 +1,5 @@
+cluster,size,medoid_pdb,backup_pdb,mean_intra_cluster_dRMSD
+1,48,8dui.pdb,6zoq.pdb,0.6372327925531914
+2,97,2pog.pdb,6pfm.pdb,0.6847871119043438
+3,142,6d0f.pdb,2iog.pdb,0.5171173993539014
+4,159,5t92.pdb,1a52.pdb,0.3929565293077646
