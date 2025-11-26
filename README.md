@@ -1,3 +1,10 @@
+# How to Navigate
+
+## We organised several folders with code we sed and theur results. 
+
+
+
+
 # ESR1 Structural Diversity and Redundancy Assessment
 
 ## Objective
