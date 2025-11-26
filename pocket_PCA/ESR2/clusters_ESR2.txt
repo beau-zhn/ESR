@@ -1,0 +1,92 @@
+Global mean dRMSD: 1.158 Å
+Global median dRMSD: 1.122 Å
+Global mean common_CA: 94.8
+
+======================================================================
+CLUSTER 1
+Size: 12
+Structures:
+  - pdb1l2j.pdb
+  - pdb1nde.pdb
+  - pdb1qkm.pdb
+  - pdb1u3q.pdb
+  - pdb1u9e.pdb
+  - pdb2giu.pdb
+  - pdb5toa.pdb
+  - pdb7xvy.pdb
+  - pdb7xvz.pdb
+  - pdb7xwp.pdb
+  - pdb7xwq.pdb
+  - pdb7xwr.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.8613918106060607
+  Mean inter-cluster dRMSD: 1.2965984009523808
+  Mean intra-cluster common_CA: 95.16666666666667
+
+Interpretation:
+  • Compact cluster with shared conformational signature.
+
+======================================================================
+CLUSTER 2
+Size: 10
+Structures:
+  - pdb1u3r.pdb
+  - pdb1u3s.pdb
+  - pdb1x76.pdb
+  - pdb1x78.pdb
+  - pdb1x7b.pdb
+  - pdb1x7j.pdb
+  - pdb1yy4.pdb
+  - pdb1yye.pdb
+  - pdb1zaf.pdb
+  - pdb2nv7.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.30027662222222223
+  Mean inter-cluster dRMSD: 1.2459163275132275
+  Mean intra-cluster common_CA: 225.82222222222222
+
+Interpretation:
+  • Compact cluster with shared conformational signature.
+
+======================================================================
+CLUSTER 3
+Size: 10
+Structures:
+  - pdb2fsz.pdb
+  - pdb2yjd.pdb
+  - pdb3oll.pdb
+  - pdb3ols.pdb
+  - pdb3omo.pdb
+  - pdb3omp.pdb
+  - pdb3omq.pdb
+  - pdb4j24.pdb
+  - pdb4j26.pdb
+  - pdb4zi1.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.5427539142857143
+  Mean inter-cluster dRMSD: 1.24995502010582
+  Mean intra-cluster common_CA: 175.82222222222222
+
+Interpretation:
+  • Compact cluster with shared conformational signature.
+
+======================================================================
+CLUSTER 4
+Size: 5
+Structures:
+  - pdb2i0g.pdb
+  - pdb2jj3.pdb
+  - pdb2qtu.pdb
+  - pdb2yly.pdb
+  - pdb2z4b.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.5847606
+  Mean inter-cluster dRMSD: 1.156477542857143
+  Mean intra-cluster common_CA: 218.8
+
+Interpretation:
+  • Compact cluster with shared conformational signature.
