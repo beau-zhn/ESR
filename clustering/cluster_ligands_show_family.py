@@ -169,7 +169,7 @@ def main():
             # fixed colors for 3 NR families (plus fallback)
             color_map = {
                 "Steroids":      "#1f77b4",  # blue
-                "Fatty acids":  "red",  
+                "Fatty acids":  "#ed1717",  
                 "Orphan":       "#2ca02c",  # green
             }
 
