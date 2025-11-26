@@ -1,0 +1,13 @@
+Fingerprint,K,N,Silhouette,Labels_CSV,UMAP_Panel_PNG
+Morgan,3,403,0.09531771052116503,outputs_family/Morgan/Morgan_labels_K3.csv,outputs_family/Morgan/Morgan_UMAP_K3.png
+Morgan,5,403,0.09321045135581606,outputs_family/Morgan/Morgan_labels_K5.csv,outputs_family/Morgan/Morgan_UMAP_K5.png
+Morgan,7,403,0.0662140053275971,outputs_family/Morgan/Morgan_labels_K7.csv,outputs_family/Morgan/Morgan_UMAP_K7.png
+Morgan,10,403,0.10858522857885264,outputs_family/Morgan/Morgan_labels_K10.csv,outputs_family/Morgan/Morgan_UMAP_K10.png
+MACCS,3,403,0.14593320044247032,outputs_family/MACCS/MACCS_labels_K3.csv,outputs_family/MACCS/MACCS_UMAP_K3.png
+MACCS,5,403,0.2077809098832784,outputs_family/MACCS/MACCS_labels_K5.csv,outputs_family/MACCS/MACCS_UMAP_K5.png
+MACCS,7,403,0.18369748973231056,outputs_family/MACCS/MACCS_labels_K7.csv,outputs_family/MACCS/MACCS_UMAP_K7.png
+MACCS,10,403,0.21268264143072918,outputs_family/MACCS/MACCS_labels_K10.csv,outputs_family/MACCS/MACCS_UMAP_K10.png
+RDKit,3,403,0.1344904533480251,outputs_family/RDKit/RDKit_labels_K3.csv,outputs_family/RDKit/RDKit_UMAP_K3.png
+RDKit,5,403,0.13812451994584593,outputs_family/RDKit/RDKit_labels_K5.csv,outputs_family/RDKit/RDKit_UMAP_K5.png
+RDKit,7,403,0.15542854943536727,outputs_family/RDKit/RDKit_labels_K7.csv,outputs_family/RDKit/RDKit_UMAP_K7.png
+RDKit,10,403,0.18217802099254743,outputs_family/RDKit/RDKit_labels_K10.csv,outputs_family/RDKit/RDKit_UMAP_K10.png

@@ -1,0 +1,4 @@
+Fingerprint,K,N,Silhouette,Labels_CSV,UMAP_Panel_PNG
+Morgan,2,24,0.06648937144829338,outputs/Morgan/Morgan_labels_K2.csv,outputs/Morgan/Morgan_UMAP_K2.png
+MACCS,2,24,0.325208951280077,outputs/MACCS/MACCS_labels_K2.csv,outputs/MACCS/MACCS_UMAP_K2.png
+RDKit,2,24,0.10009761287606518,outputs/RDKit/RDKit_labels_K2.csv,outputs/RDKit/RDKit_UMAP_K2.png
