@@ -1,0 +1,513 @@
+Global mean dRMSD: 0.861 Å
+Global median dRMSD: 0.660 Å
+Global mean common_CA: 65.0
+
+======================================================================
+CLUSTER 1
+Size: 48
+Structures:
+  - 2qxs.pdb
+  - 3os8.pdb
+  - 3os9.pdb
+  - 5aau.pdb
+  - 5aav.pdb
+  - 5acc.pdb
+  - 5ak2.pdb
+  - 5fqp.pdb
+  - 5fqr.pdb
+  - 5fqs.pdb
+  - 5fqt.pdb
+  - 5fqv.pdb
+  - 5tn9.pdb
+  - 5tnb.pdb
+  - 5ufw.pdb
+  - 6c42.pdb
+  - 6df6.pdb
+  - 6dfn.pdb
+  - 6iar.pdb
+  - 6sq0.pdb
+  - 6suo.pdb
+  - 6zoq.pdb
+  - 6zor.pdb
+  - 6zos.pdb
+  - 7kbs.pdb
+  - 7qvl.pdb
+  - 7r62.pdb
+  - 7rrx.pdb
+  - 7rry.pdb
+  - 7rrz.pdb
+  - 7rs0.pdb
+  - 7rs7.pdb
+  - 7rs9.pdb
+  - 7te7.pdb
+  - 8du6.pdb
+  - 8du8.pdb
+  - 8du9.pdb
+  - 8dub.pdb
+  - 8duc.pdb
+  - 8dud.pdb
+  - 8dug.pdb
+  - 8duh.pdb
+  - 8dui.pdb
+  - 8dus.pdb
+  - 8dv5.pdb
+  - 8dv7.pdb
+  - 8dvb.pdb
+  - 8w03.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.6372327925531914
+  Mean inter-cluster dRMSD: 1.0857611565310146
+  Mean intra-cluster common_CA: 218.6285460992908
+  Global common_CA: 65.02761122587796
+
+Interpretation:
+  • The cluster is compact (clearly similar).
+  • It is strongly separated from other clusters.
+  • High residue overlap: structures share a long aligned construct.
+
+======================================================================
+CLUSTER 2
+Size: 97
+Structures:
+  - 1sj0.pdb
+  - 1uom.pdb
+  - 1xp1.pdb
+  - 1xp6.pdb
+  - 1xp9.pdb
+  - 1xpc.pdb
+  - 1xqc.pdb
+  - 1yim.pdb
+  - 2ayr.pdb
+  - 2bj4.pdb
+  - 2i0j.pdb
+  - 2jfa.pdb
+  - 2ouz.pdb
+  - 2pog.pdb
+  - 2q70.pdb
+  - 2r6w.pdb
+  - 2r6y.pdb
+  - 3dt3.pdb
+  - 3ert.pdb
+  - 3osa.pdb
+  - 3uuc.pdb
+  - 5t0x.pdb
+  - 5u2b.pdb
+  - 5ufx.pdb
+  - 5w9c.pdb
+  - 5w9d.pdb
+  - 6b0f.pdb
+  - 6chw.pdb
+  - 6chz.pdb
+  - 6owc.pdb
+  - 6pet.pdb
+  - 6pfm.pdb
+  - 6psj.pdb
+  - 6sbo.pdb
+  - 6tjm.pdb
+  - 6tl3.pdb
+  - 6v87.pdb
+  - 6vgh.pdb
+  - 6vjd.pdb
+  - 6vpf.pdb
+  - 7bab.pdb
+  - 7msa.pdb
+  - 7n9o.pdb
+  - 7ndo.pdb
+  - 7nfw.pdb
+  - 7opw.pdb
+  - 7oq7.pdb
+  - 7pwt.pdb
+  - 7pwz.pdb
+  - 7qvj.pdb
+  - 7rs3.pdb
+  - 7rs4.pdb
+  - 7uj7.pdb
+  - 7uj8.pdb
+  - 7ujc.pdb
+  - 7ujf.pdb
+  - 7ujm.pdb
+  - 7ujo.pdb
+  - 7ujw.pdb
+  - 7ujy.pdb
+  - 7wnv.pdb
+  - 8afn.pdb
+  - 8av4.pdb
+  - 8av7.pdb
+  - 8av8.pdb
+  - 8aze.pdb
+  - 8bwj.pdb
+  - 8bwx.pdb
+  - 8bx0.pdb
+  - 8bxm.pdb
+  - 8bxn.pdb
+  - 8bxo.pdb
+  - 8bxq.pdb
+  - 8bxs.pdb
+  - 8by9.pdb
+  - 8byb.pdb
+  - 8byc.pdb
+  - 8byd.pdb
+  - 8bye.pdb
+  - 8byf.pdb
+  - 8byy.pdb
+  - 8byz.pdb
+  - 8bz0.pdb
+  - 8bz9.pdb
+  - 8bza.pdb
+  - 8bzd.pdb
+  - 8bze.pdb
+  - 8bzf.pdb
+  - 8bzg.pdb
+  - 8bzh.pdb
+  - 8bzt.pdb
+  - 8c0l.pdb
+  - 8c42.pdb
+  - 8c4f.pdb
+  - 8c4g.pdb
+  - 8dv8.pdb
+  - 9bqe.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.6847871119043438
+  Mean inter-cluster dRMSD: 1.0695173031702876
+  Mean intra-cluster common_CA: 62.109321305841924
+  Global common_CA: 65.02761122587796
+
+Interpretation:
+  • The cluster is compact (clearly similar).
+  • It is strongly separated from other clusters.
+  • Residue overlap is typical for this dataset.
+
+======================================================================
+CLUSTER 3
+Size: 142
+Structures:
+  - 1err.pdb
+  - 1gwr.pdb
+  - 1hcq.pdb
+  - 1pcg.pdb
+  - 1yin.pdb
+  - 1zky.pdb
+  - 2b1v.pdb
+  - 2b1z.pdb
+  - 2b23.pdb
+  - 2fai.pdb
+  - 2g5o.pdb
+  - 2iog.pdb
+  - 2iok.pdb
+  - 2llo.pdb
+  - 2llq.pdb
+  - 2qa8.pdb
+  - 2qab.pdb
+  - 2qgt.pdb
+  - 2qgw.pdb
+  - 2qse.pdb
+  - 2qxm.pdb
+  - 2qzo.pdb
+  - 2yja.pdb
+  - 3cbm.pdb
+  - 3cbo.pdb
+  - 3hm1.pdb
+  - 3l03.pdb
+  - 3q95.pdb
+  - 4iu7.pdb
+  - 4iui.pdb
+  - 4iv2.pdb
+  - 4iv4.pdb
+  - 4ivw.pdb
+  - 4ivy.pdb
+  - 4iw6.pdb
+  - 4iwc.pdb
+  - 4jdd.pdb
+  - 4o6f.pdb
+  - 4ppp.pdb
+  - 4q50.pdb
+  - 4tuz.pdb
+  - 4tv1.pdb
+  - 4xi3.pdb
+  - 4zns.pdb
+  - 4znt.pdb
+  - 4znv.pdb
+  - 5di7.pdb
+  - 5did.pdb
+  - 5dig.pdb
+  - 5dk9.pdb
+  - 5dkb.pdb
+  - 5dke.pdb
+  - 5dkg.pdb
+  - 5dks.pdb
+  - 5dl4.pdb
+  - 5dlr.pdb
+  - 5dmc.pdb
+  - 5dp0.pdb
+  - 5drj.pdb
+  - 5dtv.pdb
+  - 5du5.pdb
+  - 5due.pdb
+  - 5dug.pdb
+  - 5dvv.pdb
+  - 5dxk.pdb
+  - 5dxm.pdb
+  - 5dxp.pdb
+  - 5dxq.pdb
+  - 5dy8.pdb
+  - 5dyb.pdb
+  - 5dyd.pdb
+  - 5dz1.pdb
+  - 5dz3.pdb
+  - 5dzi.pdb
+  - 5e14.pdb
+  - 5e15.pdb
+  - 5e19.pdb
+  - 5e1c.pdb
+  - 5egv.pdb
+  - 5ehj.pdb
+  - 5eit.pdb
+  - 5kcd.pdb
+  - 5kce.pdb
+  - 5kra.pdb
+  - 5krc.pdb
+  - 5krf.pdb
+  - 5krh.pdb
+  - 5krj.pdb
+  - 5krm.pdb
+  - 5n10.pdb
+  - 5t1z.pdb
+  - 5t97.pdb
+  - 5tld.pdb
+  - 5tlg.pdb
+  - 5tlm.pdb
+  - 5tlo.pdb
+  - 5tlt.pdb
+  - 5tlu.pdb
+  - 5tlx.pdb
+  - 5tly.pdb
+  - 5tm1.pdb
+  - 5tm2.pdb
+  - 5tm3.pdb
+  - 5tm6.pdb
+  - 5tm7.pdb
+  - 5tml.pdb
+  - 5tmo.pdb
+  - 5tmq.pdb
+  - 5tms.pdb
+  - 5tmv.pdb
+  - 5tmw.pdb
+  - 5tmz.pdb
+  - 5tn3.pdb
+  - 5tn4.pdb
+  - 5tn8.pdb
+  - 6czn.pdb
+  - 6d0f.pdb
+  - 6hhp.pdb
+  - 6wok.pdb
+  - 7ba3.pdb
+  - 7ba5.pdb
+  - 7ba6.pdb
+  - 7ba7.pdb
+  - 7ba8.pdb
+  - 7ba9.pdb
+  - 7nfb.pdb
+  - 7niz.pdb
+  - 7rke.pdb
+  - 7rnm.pdb
+  - 7rs1.pdb
+  - 7rs2.pdb
+  - 7rs8.pdb
+  - 7sfo.pdb
+  - 7t2x.pdb
+  - 7y8g.pdb
+  - 8axe.pdb
+  - 8bzb.pdb
+  - 8bzc.pdb
+  - 8bzw.pdb
+  - 8c04.pdb
+  - 8duk.pdb
+  - 8ev2.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.5171173993539014
+  Mean inter-cluster dRMSD: 1.1052044531065506
+  Mean intra-cluster common_CA: 138.53910698231945
+  Global common_CA: 65.02761122587796
+
+Interpretation:
+  • The cluster is compact (clearly similar).
+  • It is strongly separated from other clusters.
+  • High residue overlap: structures share a long aligned construct.
+
+======================================================================
+CLUSTER 4
+Size: 159
+Structures:
+  - 1a52.pdb
+  - 1ere.pdb
+  - 1g50.pdb
+  - 1gwq.pdb
+  - 1hcp.pdb
+  - 1l2i.pdb
+  - 1qkt.pdb
+  - 1qku.pdb
+  - 1r5k.pdb
+  - 1x7e.pdb
+  - 1x7r.pdb
+  - 2g44.pdb
+  - 2jf9.pdb
+  - 2ocf.pdb
+  - 2p15.pdb
+  - 2q6j.pdb
+  - 2qa6.pdb
+  - 2qe4.pdb
+  - 2qh6.pdb
+  - 2qr9.pdb
+  - 2yat.pdb
+  - 3cbp.pdb
+  - 3erd.pdb
+  - 3hlv.pdb
+  - 3uu7.pdb
+  - 3uua.pdb
+  - 3uud.pdb
+  - 4aa6.pdb
+  - 4dma.pdb
+  - 4iw8.pdb
+  - 4iwf.pdb
+  - 4jc3.pdb
+  - 4mg6.pdb
+  - 4mg7.pdb
+  - 4mg8.pdb
+  - 4mg9.pdb
+  - 4mga.pdb
+  - 4mgb.pdb
+  - 4mgc.pdb
+  - 4mgd.pdb
+  - 4pp6.pdb
+  - 4pps.pdb
+  - 4pxm.pdb
+  - 4q13.pdb
+  - 4zn7.pdb
+  - 4zn9.pdb
+  - 4znh.pdb
+  - 4znu.pdb
+  - 4znw.pdb
+  - 5die.pdb
+  - 5dmf.pdb
+  - 5drm.pdb
+  - 5duh.pdb
+  - 5dvs.pdb
+  - 5dwe.pdb
+  - 5dwg.pdb
+  - 5dwi.pdb
+  - 5dwj.pdb
+  - 5dx3.pdb
+  - 5dxb.pdb
+  - 5dxe.pdb
+  - 5dxg.pdb
+  - 5dxr.pdb
+  - 5dz0.pdb
+  - 5dzh.pdb
+  - 5e0w.pdb
+  - 5e0x.pdb
+  - 5ei1.pdb
+  - 5gs4.pdb
+  - 5gtr.pdb
+  - 5hyr.pdb
+  - 5jmm.pdb
+  - 5kcc.pdb
+  - 5kcf.pdb
+  - 5kct.pdb
+  - 5kcu.pdb
+  - 5kcw.pdb
+  - 5kd9.pdb
+  - 5kr9.pdb
+  - 5kri.pdb
+  - 5krk.pdb
+  - 5krl.pdb
+  - 5kro.pdb
+  - 5t92.pdb
+  - 5tlf.pdb
+  - 5tll.pdb
+  - 5tlp.pdb
+  - 5tlv.pdb
+  - 5tm4.pdb
+  - 5tm5.pdb
+  - 5tm8.pdb
+  - 5tm9.pdb
+  - 5tmm.pdb
+  - 5tmr.pdb
+  - 5tmt.pdb
+  - 5tmu.pdb
+  - 5tn1.pdb
+  - 5tn5.pdb
+  - 5tn6.pdb
+  - 5tn7.pdb
+  - 5u2d.pdb
+  - 5wgd.pdb
+  - 5wgq.pdb
+  - 6cbz.pdb
+  - 6hkb.pdb
+  - 6hkf.pdb
+  - 6hmu.pdb
+  - 6pit.pdb
+  - 6v8t.pdb
+  - 7b9m.pdb
+  - 7b9r.pdb
+  - 7b9t.pdb
+  - 7baa.pdb
+  - 7jhd.pdb
+  - 7nel.pdb
+  - 7oq8.pdb
+  - 7y8f.pdb
+  - 7ymk.pdb
+  - 8ai0.pdb
+  - 8alr.pdb
+  - 8alt.pdb
+  - 8alv.pdb
+  - 8alw.pdb
+  - 8am7.pdb
+  - 8anf.pdb
+  - 8aoy.pdb
+  - 8aps.pdb
+  - 8aq1.pdb
+  - 8aqc.pdb
+  - 8aqe.pdb
+  - 8aqz.pdb
+  - 8ar4.pdb
+  - 8ar5.pdb
+  - 8arg.pdb
+  - 8aro.pdb
+  - 8arq.pdb
+  - 8arr.pdb
+  - 8arw.pdb
+  - 8arx.pdb
+  - 8ary.pdb
+  - 8arz.pdb
+  - 8as1.pdb
+  - 8at9.pdb
+  - 8atp.pdb
+  - 8au2.pdb
+  - 8aus.pdb
+  - 8auy.pdb
+  - 8av3.pdb
+  - 8awg.pdb
+  - 8axu.pdb
+  - 8b39.pdb
+  - 8bwz.pdb
+  - 8bx3.pdb
+  - 8bx4.pdb
+  - 8bxi.pdb
+  - 8byg.pdb
+  - 8byo.pdb
+  - 8c0k.pdb
+  - 8ev1.pdb
+
+Numbers:
+  Mean intra-cluster dRMSD: 0.3929565293077646
+  Mean inter-cluster dRMSD: 1.1154104064864647
+  Mean intra-cluster common_CA: 112.31446540880503
+  Global common_CA: 65.02761122587796
+
+Interpretation:
+  • The cluster is very compact (nearly identical backbones).
+  • It is strongly separated from other clusters.
+  • High residue overlap: structures share a long aligned construct.
